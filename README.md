@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://jacobsschool.ucsd.edu/">
-    <img src="images\UCSDLogo_JSOE_BlueGold.png" alt="Logo" width="400" height="100">
+    <img src="logo.png" alt="Logo" width="400" height="100">
   </a>
 <h3>MAE148 Final Project</h3>
 <p>
@@ -39,8 +39,6 @@ Team 4 Fall 2024
         <li><a href="#cad-parts">CAD Parts</a></li>
           <ul>
             <li><a href="#final-assembly">Final Assembly</a></li>
-            <li><a href="#custom-designed-parts">Custom Designed Parts</a></li>
-            <li><a href="#open-source-parts">Open Source Parts</a></li>
           </ul>
         <li><a href="#electronic-hardware">Electronic Hardware</a></li>
         <li><a href="#software">Software</a></li>
@@ -116,11 +114,10 @@ Our project goal was to develop a Roboflow model that allows our car to recogniz
 ### CAD Parts
 #### Final Assembly
 
-#### Custom Designed Parts
-
-
-#### Open Source Parts
-
+Below is the final assembly of the car hardware.
+![Car Full Assembly](FinalConfig.png "Car Full Assembly")
+Below is the final assembly of the crusher hardware
+![Crusher Full Assembly](FullAssembly.png "Crusher Full Assembly")
 
 ### Electronic Hardware
 Below is a circuit diagram of the electronic hardware setup for the car.
