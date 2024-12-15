@@ -115,13 +115,19 @@ Our project goal was to develop a Roboflow model that allows our car to recogniz
 #### Final Assembly
 
 Below is the final assembly of the car hardware.
-![Car Full Assembly](FinalConfig.png "Car Full Assembly")
+<br />
+<img src="FinalConfig.PNG" alt="Car Assembly" style="height: 308px; width:423px;"/>
+<br />
 Below is the final assembly of the crusher hardware
-![Crusher Full Assembly](FullAssembly.png "Crusher Full Assembly")
+<br />
+<img src="FullAssembly.PNG" alt="Crusher Assembly" style="height: 322px; width:252px;"/>
 
 ### Electronic Hardware
 Below is a circuit diagram of the electronic hardware setup for the car.
-
+<br />
+<img src="WiringDiagram1.PNG" alt="WiringDiagramPt1" style="height: 308px; width:423px;"/>
+<br />
+<img src="WiringDiagram1.PNG" alt="WiringDiagramPt1" style="height: 308px; width:423px;"/>
 
 
 ### Software
