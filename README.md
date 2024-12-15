@@ -77,18 +77,17 @@ Our project goal was to develop a Roboflow model that allows our car to recogniz
 
 <!-- Original Goals -->
 ### Original Goals
+
 - Mechanical can crusher
-  
 - Automatic can detection
- 
 - Navigation to can
-  
 - Ability to transport cans
   
-   
 <!-- End Results -->
 ### Goals We Met
-
+- Mechanical can crusher
+- Automatic can detection
+- Navigation to can
 
 ### Our Hopes and Dreams
 #### Stretch Goal 1
