@@ -65,7 +65,7 @@ Team 4 Fall 2024
 <h4>Team Member Major and Class </h4>
 <ul>
   <li>Kal Harris - Mechanical Engineering, Ctrls & Robotics (MC34) - Class of 2025</li>
-  <li>Shing Hung - Electrical Engineering (EC26) - Class of 2026</li>
+  <li>Shing Hung - ECE - Computer Engineering (EC26) - Class of 2026</li>
   <li>Ocean (Xingyang) Ren - Computer Science Engineering - Class of 2026</li>
   <li>Richard Vallejo - Mechanical Engineering, Ctrls & Robotics (MC34) - Class of 2025</li>
 </ul>
