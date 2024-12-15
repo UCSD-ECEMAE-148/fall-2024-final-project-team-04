@@ -97,7 +97,7 @@ Our project goal was to develop a Roboflow model that allows our car to recogniz
 
 #### Stretch Goal 2
 - Attatchment of crusher to car and ability to pick up and manipulate cans
-  - 
+
 
 ### Final Project Documentation
 
@@ -125,9 +125,9 @@ Below is the final assembly of the crusher hardware
 ### Electronic Hardware
 Below is a circuit diagram of the electronic hardware setup for the car.
 <br />
-<img src="WiringDiagram1.PNG" alt="WiringDiagramPt1" style="height: 308px; width:423px;"/>
+<img src="WiringDiagram1.PNG" alt="WiringDiagramPt1" style="height: 212px; width:387px;"/>
 <br />
-<img src="WiringDiagram1.PNG" alt="WiringDiagramPt1" style="height: 308px; width:423px;"/>
+<img src="WiringDiagram2.PNG" alt="WiringDiagramPt2" style="height: 151px; width:323px;"/>
 
 
 ### Software
